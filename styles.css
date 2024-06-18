@@ -1,0 +1,43 @@
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F6DCAC;
+    color: #01204E;
+}
+
+h1 {
+    color: #01204E;
+    margin-bottom: 30px;
+}
+
+.list-group-item {
+    font-size: 1.2rem;
+    color: #01204E;
+   
+    background-color: #FEAE6F;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+    background-color: #028391;
+    color: #F6DCAC;
+}
+
+.social-icons .btn {
+    font-size: 1.5rem;
+    color: #01204E;
+    transition: color 0.3s;
+}
+
+
+.social-icons .btn i {
+    color: #01204E;
+}
+
+.social-icons .btn i:hover  {
+    color: #113f83;}
+
+
+
